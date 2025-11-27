@@ -1,0 +1,3 @@
+[submodule "applications/arm-core-radar-gesture-detection-demo"]
+	path = applications/arm-core-radar-gesture-detection-demo
+	url = https://github.com/yunjinli/zukimo_radar_demo.git
