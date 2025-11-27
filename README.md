@@ -16,7 +16,7 @@ This repository serves as archive of the code of demonstrators created during Zu
 
 ## Gesture Recognition
 
-The gesture recognition demonstrator serves as tutorial to the usage of the ZuSE KI-mobil platfform. ...
+The gesture recognition demonstrator serves as tutorial to the usage of the ZuSE KI-mobil platfform. For more details, please check the [source code](./applications/arm-core-radar-gesture-detection-demo/) and [WiKi](https://github.com/BKinf365/ZuSE-KI-mobil/wiki). 
 
 
 # Acknowledgement
